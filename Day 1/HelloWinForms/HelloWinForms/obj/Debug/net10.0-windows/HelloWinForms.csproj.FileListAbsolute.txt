@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\HelloWinForms\HelloWinForms\obj\Debug\net10.0-windows\HelloWinForms.Form1.resources
+C:\Users\user\source\repos\HelloWinForms\HelloWinForms\obj\Debug\net10.0-windows\HelloWinForms.csproj.GenerateResource.cache
+C:\Users\user\source\repos\HelloWinForms\HelloWinForms\obj\Debug\net10.0-windows\HelloWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\HelloWinForms\HelloWinForms\obj\Debug\net10.0-windows\HelloWinForms.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\HelloWinForms\HelloWinForms\obj\Debug\net10.0-windows\HelloWinForms.AssemblyInfo.cs
+C:\Users\user\source\repos\HelloWinForms\HelloWinForms\obj\Debug\net10.0-windows\HelloWinForms.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HelloWinForms\HelloWinForms\bin\Debug\net10.0-windows\HelloWinForms.exe
+C:\Users\user\source\repos\HelloWinForms\HelloWinForms\bin\Debug\net10.0-windows\HelloWinForms.deps.json
+C:\Users\user\source\repos\HelloWinForms\HelloWinForms\bin\Debug\net10.0-windows\HelloWinForms.runtimeconfig.json
+C:\Users\user\source\repos\HelloWinForms\HelloWinForms\bin\Debug\net10.0-windows\HelloWinForms.dll
+C:\Users\user\source\repos\HelloWinForms\HelloWinForms\bin\Debug\net10.0-windows\HelloWinForms.pdb
+C:\Users\user\source\repos\HelloWinForms\HelloWinForms\obj\Debug\net10.0-windows\HelloWinForms.dll
+C:\Users\user\source\repos\HelloWinForms\HelloWinForms\obj\Debug\net10.0-windows\refint\HelloWinForms.dll
+C:\Users\user\source\repos\HelloWinForms\HelloWinForms\obj\Debug\net10.0-windows\HelloWinForms.pdb
+C:\Users\user\source\repos\HelloWinForms\HelloWinForms\obj\Debug\net10.0-windows\HelloWinForms.genruntimeconfig.cache
+C:\Users\user\source\repos\HelloWinForms\HelloWinForms\obj\Debug\net10.0-windows\ref\HelloWinForms.dll
