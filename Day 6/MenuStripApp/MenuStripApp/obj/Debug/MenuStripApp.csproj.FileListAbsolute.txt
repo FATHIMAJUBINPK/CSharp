@@ -1,0 +1,20 @@
+C:\Users\user\source\repos\MenuStripApp\MenuStripApp\bin\Debug\MenuStripApp.exe.config
+C:\Users\user\source\repos\MenuStripApp\MenuStripApp\bin\Debug\MenuStripApp.exe
+C:\Users\user\source\repos\MenuStripApp\MenuStripApp\bin\Debug\MenuStripApp.pdb
+C:\Users\user\source\repos\MenuStripApp\MenuStripApp\obj\Debug\MenuStripApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\MenuStripApp\MenuStripApp\obj\Debug\MenuStripApp.Form1.resources
+C:\Users\user\source\repos\MenuStripApp\MenuStripApp\obj\Debug\MenuStripApp.Properties.Resources.resources
+C:\Users\user\source\repos\MenuStripApp\MenuStripApp\obj\Debug\MenuStripApp.csproj.GenerateResource.cache
+C:\Users\user\source\repos\MenuStripApp\MenuStripApp\obj\Debug\MenuStripApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MenuStripApp\MenuStripApp\obj\Debug\MenuStripApp.exe
+C:\Users\user\source\repos\MenuStripApp\MenuStripApp\obj\Debug\MenuStripApp.pdb
+C:\Users\user\source\Day 6\MenuStripApp\MenuStripApp\obj\Debug\MenuStripApp.csproj.AssemblyReference.cache
+C:\Users\user\source\Day 6\MenuStripApp\MenuStripApp\obj\Debug\MenuStripApp.Form1.resources
+C:\Users\user\source\Day 6\MenuStripApp\MenuStripApp\obj\Debug\MenuStripApp.csproj.GenerateResource.cache
+C:\Users\user\source\Day 6\MenuStripApp\MenuStripApp\bin\Debug\MenuStripApp.exe.config
+C:\Users\user\source\Day 6\MenuStripApp\MenuStripApp\bin\Debug\MenuStripApp.exe
+C:\Users\user\source\Day 6\MenuStripApp\MenuStripApp\bin\Debug\MenuStripApp.pdb
+C:\Users\user\source\Day 6\MenuStripApp\MenuStripApp\obj\Debug\MenuStripApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\Day 6\MenuStripApp\MenuStripApp\obj\Debug\MenuStripApp.exe
+C:\Users\user\source\Day 6\MenuStripApp\MenuStripApp\obj\Debug\MenuStripApp.pdb
+C:\Users\user\source\Day 6\MenuStripApp\MenuStripApp\obj\Debug\MenuStripApp.Properties.Resources.resources

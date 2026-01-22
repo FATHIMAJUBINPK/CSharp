@@ -1,0 +1,20 @@
+C:\Users\user\source\repos\DatabaseIntegration\DatabaseIntegration\bin\Debug\DatabaseIntegration.exe.config
+C:\Users\user\source\repos\DatabaseIntegration\DatabaseIntegration\bin\Debug\DatabaseIntegration.exe
+C:\Users\user\source\repos\DatabaseIntegration\DatabaseIntegration\bin\Debug\DatabaseIntegration.pdb
+C:\Users\user\source\repos\DatabaseIntegration\DatabaseIntegration\obj\Debug\DatabaseIntegration.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DatabaseIntegration\DatabaseIntegration\obj\Debug\DatabaseIntegration.Form1.resources
+C:\Users\user\source\repos\DatabaseIntegration\DatabaseIntegration\obj\Debug\DatabaseIntegration.Properties.Resources.resources
+C:\Users\user\source\repos\DatabaseIntegration\DatabaseIntegration\obj\Debug\DatabaseIntegration.csproj.GenerateResource.cache
+C:\Users\user\source\repos\DatabaseIntegration\DatabaseIntegration\obj\Debug\DatabaseIntegration.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DatabaseIntegration\DatabaseIntegration\obj\Debug\DatabaseIntegration.exe
+C:\Users\user\source\repos\DatabaseIntegration\DatabaseIntegration\obj\Debug\DatabaseIntegration.pdb
+C:\Users\user\source\Day 5\DatabaseIntegration\DatabaseIntegration\bin\Debug\DatabaseIntegration.exe.config
+C:\Users\user\source\Day 5\DatabaseIntegration\DatabaseIntegration\bin\Debug\DatabaseIntegration.exe
+C:\Users\user\source\Day 5\DatabaseIntegration\DatabaseIntegration\bin\Debug\DatabaseIntegration.pdb
+C:\Users\user\source\Day 5\DatabaseIntegration\DatabaseIntegration\obj\Debug\DatabaseIntegration.csproj.AssemblyReference.cache
+C:\Users\user\source\Day 5\DatabaseIntegration\DatabaseIntegration\obj\Debug\DatabaseIntegration.Form1.resources
+C:\Users\user\source\Day 5\DatabaseIntegration\DatabaseIntegration\obj\Debug\DatabaseIntegration.Properties.Resources.resources
+C:\Users\user\source\Day 5\DatabaseIntegration\DatabaseIntegration\obj\Debug\DatabaseIntegration.csproj.GenerateResource.cache
+C:\Users\user\source\Day 5\DatabaseIntegration\DatabaseIntegration\obj\Debug\DatabaseIntegration.csproj.CoreCompileInputs.cache
+C:\Users\user\source\Day 5\DatabaseIntegration\DatabaseIntegration\obj\Debug\DatabaseIntegration.exe
+C:\Users\user\source\Day 5\DatabaseIntegration\DatabaseIntegration\obj\Debug\DatabaseIntegration.pdb
