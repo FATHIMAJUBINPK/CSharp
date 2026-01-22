@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\RegistrationFormWinForms\RegistrationFormWinForms\obj\Debug\net10.0-windows\RegistrationFormWinForms.Form1.resources
+C:\Users\user\source\repos\RegistrationFormWinForms\RegistrationFormWinForms\obj\Debug\net10.0-windows\RegistrationFormWinForms.csproj.GenerateResource.cache
+C:\Users\user\source\repos\RegistrationFormWinForms\RegistrationFormWinForms\obj\Debug\net10.0-windows\RegistrationFormWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\RegistrationFormWinForms\RegistrationFormWinForms\obj\Debug\net10.0-windows\RegistrationFormWinForms.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\RegistrationFormWinForms\RegistrationFormWinForms\obj\Debug\net10.0-windows\RegistrationFormWinForms.AssemblyInfo.cs
+C:\Users\user\source\repos\RegistrationFormWinForms\RegistrationFormWinForms\obj\Debug\net10.0-windows\RegistrationFormWinForms.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\RegistrationFormWinForms\RegistrationFormWinForms\bin\Debug\net10.0-windows\RegistrationFormWinForms.exe
+C:\Users\user\source\repos\RegistrationFormWinForms\RegistrationFormWinForms\bin\Debug\net10.0-windows\RegistrationFormWinForms.deps.json
+C:\Users\user\source\repos\RegistrationFormWinForms\RegistrationFormWinForms\bin\Debug\net10.0-windows\RegistrationFormWinForms.runtimeconfig.json
+C:\Users\user\source\repos\RegistrationFormWinForms\RegistrationFormWinForms\bin\Debug\net10.0-windows\RegistrationFormWinForms.dll
+C:\Users\user\source\repos\RegistrationFormWinForms\RegistrationFormWinForms\bin\Debug\net10.0-windows\RegistrationFormWinForms.pdb
+C:\Users\user\source\repos\RegistrationFormWinForms\RegistrationFormWinForms\obj\Debug\net10.0-windows\RegistrationFormWinForms.dll
+C:\Users\user\source\repos\RegistrationFormWinForms\RegistrationFormWinForms\obj\Debug\net10.0-windows\refint\RegistrationFormWinForms.dll
+C:\Users\user\source\repos\RegistrationFormWinForms\RegistrationFormWinForms\obj\Debug\net10.0-windows\RegistrationFormWinForms.pdb
+C:\Users\user\source\repos\RegistrationFormWinForms\RegistrationFormWinForms\obj\Debug\net10.0-windows\RegistrationFormWinForms.genruntimeconfig.cache
+C:\Users\user\source\repos\RegistrationFormWinForms\RegistrationFormWinForms\obj\Debug\net10.0-windows\ref\RegistrationFormWinForms.dll
