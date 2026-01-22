@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\CheckWinForms\CheckWinForms\obj\Debug\net10.0-windows\CheckWinForms.Form1.resources
+C:\Users\user\source\repos\CheckWinForms\CheckWinForms\obj\Debug\net10.0-windows\CheckWinForms.csproj.GenerateResource.cache
+C:\Users\user\source\repos\CheckWinForms\CheckWinForms\obj\Debug\net10.0-windows\CheckWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\CheckWinForms\CheckWinForms\obj\Debug\net10.0-windows\CheckWinForms.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CheckWinForms\CheckWinForms\obj\Debug\net10.0-windows\CheckWinForms.AssemblyInfo.cs
+C:\Users\user\source\repos\CheckWinForms\CheckWinForms\obj\Debug\net10.0-windows\CheckWinForms.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CheckWinForms\CheckWinForms\bin\Debug\net10.0-windows\CheckWinForms.exe
+C:\Users\user\source\repos\CheckWinForms\CheckWinForms\bin\Debug\net10.0-windows\CheckWinForms.deps.json
+C:\Users\user\source\repos\CheckWinForms\CheckWinForms\bin\Debug\net10.0-windows\CheckWinForms.runtimeconfig.json
+C:\Users\user\source\repos\CheckWinForms\CheckWinForms\bin\Debug\net10.0-windows\CheckWinForms.dll
+C:\Users\user\source\repos\CheckWinForms\CheckWinForms\bin\Debug\net10.0-windows\CheckWinForms.pdb
+C:\Users\user\source\repos\CheckWinForms\CheckWinForms\obj\Debug\net10.0-windows\CheckWinForms.dll
+C:\Users\user\source\repos\CheckWinForms\CheckWinForms\obj\Debug\net10.0-windows\refint\CheckWinForms.dll
+C:\Users\user\source\repos\CheckWinForms\CheckWinForms\obj\Debug\net10.0-windows\CheckWinForms.pdb
+C:\Users\user\source\repos\CheckWinForms\CheckWinForms\obj\Debug\net10.0-windows\CheckWinForms.genruntimeconfig.cache
+C:\Users\user\source\repos\CheckWinForms\CheckWinForms\obj\Debug\net10.0-windows\ref\CheckWinForms.dll
